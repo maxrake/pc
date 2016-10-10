@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c9109357-7323-45c6-89bb-815d766f04c8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>level_1.py</StartupFile>
+    <StartupFile>level_2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,15 @@
     <Compile Include="level_1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="level_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="extras\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="extras\level_2.txt" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
