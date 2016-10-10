@@ -1,3 +1,4 @@
+# Python Challenge
 These are my notes and solutions for the [Python Challenge](http://www.pythonchallenge.com)
 
 ## **SPOILERS AHEAD**
@@ -42,37 +43,37 @@ http://wiki.pythonchallenge.com/index.php?title=Level0:Main_Page
 
 Level | Complete? | Name
 ------- | --------- | ----
-0 | * [x] | http://www.pythonchallenge.com/pc/def/0.html
-1 | * [x] | http://www.pythonchallenge.com/pc/def/map.html
-2 | * [ ] | http://www.pythonchallenge.com/pc/def/ocr.html
-3 | * [ ] | 
-4 | * [ ] | 
-5 | * [ ] | 
-6 | * [ ] | 
-7 | * [ ] | 
-8 | * [ ] | 
-9 | * [ ] | 
-10 | * [ ] | 
-11 | * [ ] | 
-12 | * [ ] | 
-13 | * [ ] | 
-14 | * [ ] | 
-15 | * [ ] | 
-16 | * [ ] | 
-17 | * [ ] | 
-18 | * [ ] | 
-19 | * [ ] | 
-20 | * [ ] | 
-21 | * [ ] | 
-22 | * [ ] | 
-23 | * [ ] | 
-24 | * [ ] | 
-25 | * [ ] | 
-26 | * [ ] | 
-27 | * [ ] | 
-28 | * [ ] | 
-29 | * [ ] | 
-30 | * [ ] | 
-31 | * [ ] | 
-32 | * [ ] | 
-33 | * [ ] | 
+0 | Y | http://www.pythonchallenge.com/pc/def/0.html
+1 | Y | http://www.pythonchallenge.com/pc/def/map.html
+2 | N | http://www.pythonchallenge.com/pc/def/ocr.html
+3 | N | 
+4 | N | 
+5 | N | 
+6 | N | 
+7 | N | 
+8 | N | 
+9 | N | 
+10 | N | 
+11 | N | 
+12 | N | 
+13 | N | 
+14 | N | 
+15 | N | 
+16 | N | 
+17 | N | 
+18 | N | 
+19 | N | 
+20 | N | 
+21 | N | 
+22 | N | 
+23 | N | 
+24 | N | 
+25 | N | 
+26 | N | 
+27 | N | 
+28 | N | 
+29 | N | 
+30 | N | 
+31 | N | 
+32 | N | 
+33 | N | 
