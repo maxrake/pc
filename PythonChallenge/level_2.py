@@ -1,4 +1,5 @@
 from collections import Counter
+import utils
 
 
 def level_2(text):
@@ -8,5 +9,9 @@ def level_2(text):
 
 
 if __name__ == '__main__':
-    with open(r'extras\level_2.txt') as f:
-        print(level_2(f.read()))
+    comments = utils.get_comments('http://www.pythonchallenge.com/pc/def/ocr.html')
+    if comments:
+        for comment in comments:
+            print(level_2(comment))
+    else:
+        print(" [*] No comments found.")
