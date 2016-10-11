@@ -46,8 +46,8 @@ Level | Complete? | Name
 0 | Y | http://www.pythonchallenge.com/pc/def/0.html
 1 | Y | http://www.pythonchallenge.com/pc/def/map.html
 2 | Y | http://www.pythonchallenge.com/pc/def/ocr.html
-3 | N | http://www.pythonchallenge.com/pc/def/equality.html
-4 | N | 
+3 | Y | http://www.pythonchallenge.com/pc/def/equality.html
+4 | N | http://www.pythonchallenge.com/pc/def/linkedlist.php
 5 | N | 
 6 | N | 
 7 | N | 
