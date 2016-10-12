@@ -16,7 +16,8 @@ My secondary goals:
 My solution is based on Python 3.5 and uses third party packages.
 I also use Microsoft's Visual Studio 2015 and Python Tools for Visual Studio as my IDE but that environment is not required to follow my solutions.
 All you really need to do is install the 3rd party packages with `pip` and the `requirements.txt` file provided:
-    > pip install -r requirements.txt
+
+    C:\dev\pc\PythonChallenge> pip install -r requirements.txt
 
 ## **SPOILERS AHEAD**
 The table below tracks my progress but also gives away the URLs needed to progress in the challenge.
