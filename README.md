@@ -11,13 +11,17 @@ My secondary goals:
 * learn PyLint
 * become natural in my PEP8 and PEP257 usage
 * learn Markdown syntax
+* get better with git
 
 ## Install Requirements
 My solution is based on Python 3.5 and uses third party packages.
 I also use Microsoft's Visual Studio 2015 and Python Tools for Visual Studio as my IDE but that environment is not required to follow my solutions.
-All you really need to do is install the 3rd party packages with `pip` and the `requirements.txt` file provided:
+All you really need to do is install the 3rd party packages with `pip` and the `requirements.txt` file provided.
+When using 3rd party packages, it is recommended to use a virtual environment:
 
-    C:\dev\pc\PythonChallenge> pip install -r requirements.txt
+    C:\dev\pc> python -m venv VENV
+    C:\dev\pc> VENV\Scripts\activate
+    C:\dev\pc> pip install -r PythonChallenge\requirements.txt
 
 ## **SPOILERS AHEAD**
 The table below tracks my progress but also gives away the URLs needed to progress in the challenge.
@@ -66,8 +70,8 @@ Level | Complete? | Name
 2 | Y | http://www.pythonchallenge.com/pc/def/ocr.html
 3 | Y | http://www.pythonchallenge.com/pc/def/equality.html
 4 | Y | http://www.pythonchallenge.com/pc/def/linkedlist.php
-5 | N | http://www.pythonchallenge.com/pc/def/peak.html
-6 | N | 
+5 | Y | http://www.pythonchallenge.com/pc/def/peak.html
+6 | N | http://www.pythonchallenge.com/pc/def/channel.html
 7 | N | 
 8 | N | 
 9 | N | 
