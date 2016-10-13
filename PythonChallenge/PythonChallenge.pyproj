@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c9109357-7323-45c6-89bb-815d766f04c8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>level_4.py</StartupFile>
+    <StartupFile>level_5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -35,6 +35,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="level_4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="level_5.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="utils.py">
