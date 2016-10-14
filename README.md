@@ -71,8 +71,8 @@ Level | Complete? | Name
 3 | Y | http://www.pythonchallenge.com/pc/def/equality.html
 4 | Y | http://www.pythonchallenge.com/pc/def/linkedlist.php
 5 | Y | http://www.pythonchallenge.com/pc/def/peak.html
-6 | N | http://www.pythonchallenge.com/pc/def/channel.html
-7 | N | 
+6 | Y | http://www.pythonchallenge.com/pc/def/channel.html
+7 | N | http://www.pythonchallenge.com/pc/def/oxygen.html
 8 | N | 
 9 | N | 
 10 | N | 

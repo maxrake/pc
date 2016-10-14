@@ -22,3 +22,16 @@ def get_comments(url):
     parser.close()
 
     return parser.comments
+
+
+def save_file_from_url(url, file, mode):
+    """Save a file from a given URL to a local file with a given mode"""
+    print(" [*] Getting {} file ...".format(url), end='')
+    r = requests.get(url)
+    r.raise_for_status()
+    print("Done")
+    
+    print(" [*] Saving {} file to {} ...".format(url, file), end='')
+    with open(file, mode) as f:
+        f.write(r.content)
+    print("Done")
