@@ -21,7 +21,7 @@ When using 3rd party packages, it is recommended to use a virtual environment:
 
     C:\dev\pc> python -m venv VENV
     C:\dev\pc> VENV\Scripts\activate
-    C:\dev\pc> pip install -r PythonChallenge\requirements.txt
+    (VENV) C:\dev\pc> pip install -r PythonChallenge\requirements.txt
 
 ## **SPOILERS AHEAD**
 The table below tracks my progress but also gives away the URLs needed to progress in the challenge.
@@ -72,8 +72,8 @@ Level | Complete? | Name
 4 | Y | http://www.pythonchallenge.com/pc/def/linkedlist.php
 5 | Y | http://www.pythonchallenge.com/pc/def/peak.html
 6 | Y | http://www.pythonchallenge.com/pc/def/channel.html
-7 | N | http://www.pythonchallenge.com/pc/def/oxygen.html
-8 | N | 
+7 | Y | http://www.pythonchallenge.com/pc/def/oxygen.html
+8 | N | http://www.pythonchallenge.com/pc/def/integrity.html
 9 | N | 
 10 | N | 
 11 | N | 
