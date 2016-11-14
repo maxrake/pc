@@ -1,3 +1,4 @@
+import getpass
 from html.parser import HTMLParser
 import requests
 
@@ -10,10 +11,18 @@ class MyHTMLParser(HTMLParser):
             self.comments.append(data.replace('\n', ''))
 
 
-def get_comments(url):
-    """Return a list of HTML comment data given a URL as a string."""
+def get_comments(url, user=None):
+    """Return a list of HTML comment data given a URL as a string.
+    
+    If HTTP Basic Authentication is used to access the site, provide
+    the user name as a string and a password will be prompted.
+    """
+    if user is not None:
+        password = getpass.getpass()
+        auth = requests.auth.HTTPBasicAuth(user, password)
+
     print(' [*] Parsing {} for comments ...'.format(url), end='')
-    r = requests.get(url)
+    r = requests.get(url, auth=(auth if user else None))
     print('Done')
     r.raise_for_status()
 
