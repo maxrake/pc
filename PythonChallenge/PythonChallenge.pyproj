@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c9109357-7323-45c6-89bb-815d766f04c8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>level_9.py</StartupFile>
+    <StartupFile>level_10.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
   <ItemGroup>
     <Compile Include="level_0.py" />
     <Compile Include="level_1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="level_10.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="level_2.py">

@@ -75,8 +75,8 @@ Level | Complete? | Name
 7 | Y | http://www.pythonchallenge.com/pc/def/oxygen.html
 8 | Y | http://www.pythonchallenge.com/pc/def/integrity.html
 9 | Y | http://www.pythonchallenge.com/pc/return/good.html
-10 | N | http://www.pythonchallenge.com/pc/return/bull.html
-11 | N | 
+10 | Y | http://www.pythonchallenge.com/pc/return/bull.html
+11 | N | http://www.pythonchallenge.com/pc/return/5808.html
 12 | N | 
 13 | N | 
 14 | N | 
